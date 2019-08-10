@@ -1,0 +1,97 @@
+"Phrases"
+{
+	"ML_Alias"
+	{
+		"en"			"[ML] "
+	}
+
+	"ML_DatabaseConnecting"
+	{
+		"#format"		"{1:s}"
+		"en"			"Establishing connection to database \"{1}\", you will be notified when it's done."
+	}
+	
+	"ML_DatabaseConnected"
+	{
+		"#format"		"{1:s}"
+		"en"			"Connected to database \"{1}\" successfully and preparing tables, you will be notified when it's done."
+	}
+	
+	"ML_DatabaseTablesReady"
+	{
+		"en"			"Database is now ready for usage. Use ml_dbquery for queries."
+	}
+	
+	"ML_DatabaseConnectionFailed"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"Failed to connect to database \"{1}\": {2}."
+	}
+	
+	"ML_DatabaseDisconnecting"
+	{
+		"#format"		"{1:s}"
+		"en"			"Closing database connection \"{1}\"."
+	}
+	
+	"ML_FatalError"
+	{
+		"#format"		"{1:s}"
+		"en"			"A fatal error as been detected and we had to disconnect: {1}"
+	}
+	
+	"ML_ConnectionInProgress"
+	{
+		"#format"		"{1:s}"
+		"en"			"Already connecting to database \"{1}\". Please wait until it finishes."
+	}
+	
+	"ML_DatabaseNotConnected"
+	{
+		"en"			"The logger is not connected to any database, logging information may be unnavailable."
+	}
+	
+	"ML_WrongCommandUsage"
+	{
+		"#format"		"{1:s}"
+		"en"			"Wrong usage for command \"{1}\"!"
+	}
+	
+	"ML_DatabaseConnectionRetry"
+	{
+		"en"			"Database not connected. Retrying..."
+	}
+	
+	"ML_ActionDBQueryUsage"
+	{
+		"en"			"Usage: ml_dbquery <SQL query>"
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
